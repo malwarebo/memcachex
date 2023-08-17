@@ -29,7 +29,7 @@ Please follow the official libmemcached documentation to install the library on 
    ```
 
 2. Usage
-After building the project, you can run the cachella executable:
+After building the project, you can run the memcachex executable:
 
 ```bash
 ./memcachex
