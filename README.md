@@ -4,7 +4,7 @@ Memcachex is a simple C++ project that demonstrates how to interact with a memca
 
 ## Getting Started
 
-## Note: This was tested on MacOS only.
+### _Note: This was tested on MacOS only._
 
 ### Prerequisites
 
@@ -12,8 +12,18 @@ Before using Memcachex, you need to have the libmemcached library installed on y
 
 - CMake (Version 3.10 or higher)
 - C++ compiler (supporting C++11 or above)
+- libmemcached is installed
+- pkg-config is installed
 
 ### Installing libmemcached
+
+MacOS
+
+```bash
+brew install libmemcached
+brew install pkg-config
+```
+or
 
 Please follow the official libmemcached documentation to install the library on your system: [libmemcached Installation Guide](https://libmemcached.org)
 
