@@ -4,6 +4,8 @@ Memcachex is a simple C++ project that demonstrates how to interact with a memca
 
 ## Getting Started
 
+## Note: This was tested on MacOS only.
+
 ### Prerequisites
 
 Before using Memcachex, you need to have the libmemcached library installed on your system. Make sure you have the following prerequisites:
