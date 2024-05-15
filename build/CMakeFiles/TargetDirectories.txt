@@ -1,0 +1,3 @@
+/Users/irfan/projects/memcachex/build/CMakeFiles/memcachex.dir
+/Users/irfan/projects/memcachex/build/CMakeFiles/edit_cache.dir
+/Users/irfan/projects/memcachex/build/CMakeFiles/rebuild_cache.dir
