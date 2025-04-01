@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/Users/irfan/projects/memcachex/build",
+  "command": "/usr/bin/c++  -I/Users/irfan/projects/memcachex/src -I/opt/homebrew/include -g -std=gnu++11 -arch arm64 -o CMakeFiles/memcachex.dir/src/MemcachedClient.cpp.o -c /Users/irfan/projects/memcachex/src/MemcachedClient.cpp",
+  "file": "/Users/irfan/projects/memcachex/src/MemcachedClient.cpp",
+  "output": "CMakeFiles/memcachex.dir/src/MemcachedClient.cpp.o"
+},
+{
+  "directory": "/Users/irfan/projects/memcachex/build/examples",
+  "command": "/usr/bin/c++  -I/Users/irfan/projects/memcachex/src -g -std=gnu++11 -arch arm64 -o CMakeFiles/basic_example.dir/basic_example.cpp.o -c /Users/irfan/projects/memcachex/examples/basic_example.cpp",
+  "file": "/Users/irfan/projects/memcachex/examples/basic_example.cpp",
+  "output": "examples/CMakeFiles/basic_example.dir/basic_example.cpp.o"
+}
+]

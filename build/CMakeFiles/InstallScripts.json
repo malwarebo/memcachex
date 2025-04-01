@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/irfan/projects/memcachex/build/cmake_install.cmake",
+		"/Users/irfan/projects/memcachex/build/examples/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

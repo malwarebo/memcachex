@@ -8,7 +8,6 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/Users/irfan/projects/memcachex/example.cpp" "CMakeFiles/memcachex.dir/example.cpp.o" "gcc" "CMakeFiles/memcachex.dir/example.cpp.o.d"
   "/Users/irfan/projects/memcachex/src/MemcachedClient.cpp" "CMakeFiles/memcachex.dir/src/MemcachedClient.cpp.o" "gcc" "CMakeFiles/memcachex.dir/src/MemcachedClient.cpp.o.d"
   )
 

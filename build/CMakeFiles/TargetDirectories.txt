@@ -1,3 +1,14 @@
 /Users/irfan/projects/memcachex/build/CMakeFiles/memcachex.dir
 /Users/irfan/projects/memcachex/build/CMakeFiles/edit_cache.dir
 /Users/irfan/projects/memcachex/build/CMakeFiles/rebuild_cache.dir
+/Users/irfan/projects/memcachex/build/CMakeFiles/list_install_components.dir
+/Users/irfan/projects/memcachex/build/CMakeFiles/install.dir
+/Users/irfan/projects/memcachex/build/CMakeFiles/install/local.dir
+/Users/irfan/projects/memcachex/build/CMakeFiles/install/strip.dir
+/Users/irfan/projects/memcachex/build/examples/CMakeFiles/basic_example.dir
+/Users/irfan/projects/memcachex/build/examples/CMakeFiles/edit_cache.dir
+/Users/irfan/projects/memcachex/build/examples/CMakeFiles/rebuild_cache.dir
+/Users/irfan/projects/memcachex/build/examples/CMakeFiles/list_install_components.dir
+/Users/irfan/projects/memcachex/build/examples/CMakeFiles/install.dir
+/Users/irfan/projects/memcachex/build/examples/CMakeFiles/install/local.dir
+/Users/irfan/projects/memcachex/build/examples/CMakeFiles/install/strip.dir
